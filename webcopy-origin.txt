@@ -1,0 +1,1536 @@
+Uri: https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500&display=swap
+File Name: D:\O2\templates.iqonic.design\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200
+File Name: D:\O2\templates.iqonic.design\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,400,500,700&display=swap
+File Name: D:\O2\templates.iqonic.design\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dmsans/v11/rP2Cp2ywxg089UriAWCrOB8.ttf
+File Name: D:\O2\templates.iqonic.design\s\dmsans\v11\rP2Cp2ywxg089UriAWCrOB8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v11/rP2Hp2ywxg089UriOZQ.ttf
+File Name: D:\O2\templates.iqonic.design\s\dmsans\v11\rP2Hp2ywxg089UriOZQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDAvHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDAvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDBIG-em.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDBIG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDBxG-em.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDBxG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCdHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCdHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHeem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHeem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDDxHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDDxHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDAvHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDAvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBIG-em.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBIG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBxG-em.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBxG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCdHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCdHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHeem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHeem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDDxHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDDxHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDAvHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDAvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBIG-em.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBIG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBxG-em.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBxG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCdHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCdHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHeem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHeem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDDxHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDDxHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDAvHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDAvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBIG-em.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBIG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBxG-em.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBxG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCdHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCdHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHeem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHeem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDDxHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDDxHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDAvHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDAvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBIG-em.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBIG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBxG-em.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBxG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCdHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCdHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHeem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHeem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDDxHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDDxHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDAvHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDAvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDBIG-em.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDBIG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDBxG-em.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDBxG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCdHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCdHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHeem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHeem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDDxHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDDxHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDAvHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDAvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBIG-em.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBIG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBxG-em.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBxG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCdHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCdHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHeem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHeem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDDxHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDDxHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDAvHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDAvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBIG-em.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBIG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBxG-em.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBxG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCdHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCdHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHeem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHeem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDDxHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDDxHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDAvHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDAvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBIG-em.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBIG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBxG-em.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBxG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCdHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCdHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHeem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHeem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDDxHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDDxHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDAvHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDAvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBIG-em.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBIG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBxG-em.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBxG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCdHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCdHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHeem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHeem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v86/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDDxHOem.ttf
+File Name: D:\O2\templates.iqonic.design\s\materialsymbolsoutlined\v86\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDDxHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: D:\O2\templates.iqonic.design\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: D:\O2\templates.iqonic.design\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: D:\O2\templates.iqonic.design\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: D:\O2\templates.iqonic.design\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/css/customizer.css
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\css\customizer.css
+Content Type: text/css
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/css/libs.min.css
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\css\libs.min.css
+Content Type: text/css
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/css/socialv.css?v=5.0.2
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\css\socialv.css
+Content Type: text/css
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/badges/01.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\badges\01.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/badges/02.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\badges\02.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/blog/01.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\blog\01.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/blog/02.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\blog\02.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/blog/03.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\blog\03.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/blog/04.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\blog\04.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/blog/05.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\blog\05.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/blog/06.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\blog\06.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/blog/07.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\blog\07.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/blog/08.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\blog\08.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/blog/b1.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\blog\b1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/blog/b2.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\blog\b2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/blog/b3.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\blog\b3.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/blog/b4.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\blog\b4.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/error/02.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\error\02.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/error/400.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\error\400.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/error/500.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\error\500.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/favicon.ico
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/icon/01.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\icon\01.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/icon/02.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\icon\02.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/icon/03.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\icon\03.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/icon/04.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\icon\04.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/icon/05.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\icon\05.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/icon/06.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\icon\06.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/icon/07.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\icon\07.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/icon/08.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\icon\08.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/icon/09.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\icon\09.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/icon/10.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\icon\10.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/icon/11.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\icon\11.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/icon/12.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\icon\12.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/icon/13.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\icon\13.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/icon/cart.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\icon\cart.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/login/1.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\login\1.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/login/2.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\login\2.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/login/3.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\login\3.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/login/mail.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\login\mail.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/logo-full.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\logo-full.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/market/1.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\market\1.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/market/2.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\market\2.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/market/3.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\market\3.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/market/5.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\market\5.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/market/7.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\market\7.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/market/8.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\market\8.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/market/9.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\market\9.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/01.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\01.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/02.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\02.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/03.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\03.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/06.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\06.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/07.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\07.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/08.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\08.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/09.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\09.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/10.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\10.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/11.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\11.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/12.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\12.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/13.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\13.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/14.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\14.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/15.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\15.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/16.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\16.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/17.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\17.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/18.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\18.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/19.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\19.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/20.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\20.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/21.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\21.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/22.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\22.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/23.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\23.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/24.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\24.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/25.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\25.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/26.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\26.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/27.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\27.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/28.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\28.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/42.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\42.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/43.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\43.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/44.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\44.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/45.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\45.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/46.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\46.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/47.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\47.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/48.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\48.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/51.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\51.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/52.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\52.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/53.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\53.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/54.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\54.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/55.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\55.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/56.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\56.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/57.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\57.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/58.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\58.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/59.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\59.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/60.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\60.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/61.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\61.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/62.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\62.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/63.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\63.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/64.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\64.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/65.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\65.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/g1.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\g1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/g2.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\g2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/g3.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\g3.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/g4.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\g4.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/g5.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\g5.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/g6.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\g6.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/g7.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\g7.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/g8.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\g8.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/g9.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\g9.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/gi-7.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\gi-7.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/img-success.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\img-success.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/l1.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\l1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/l2.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\l2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/l3.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\l3.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/l4.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\l4.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/l5.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\l5.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/l6.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\l6.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/n1.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\n1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/n2.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\n2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/n3.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\n3.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/n4.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\n4.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/n5.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\n5.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/n6.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\n6.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/n7.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\n7.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/n8.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\n8.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/p1.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\p1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/p2.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\p2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/p3.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\p3.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/p4.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\p4.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/p5.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\p5.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/page-load-loader.gif
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\page-load-loader.gif
+Content Type: image/gif
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/profile-bg1.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\profile-bg1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/profile-bg2.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\profile-bg2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/profile-bg3.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\profile-bg3.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/profile-bg4.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\profile-bg4.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/profile-bg5.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\profile-bg5.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/profile-bg6.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\profile-bg6.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/profile-bg7.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\profile-bg7.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/profile-bg8.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\profile-bg8.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/profile-bg9.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\profile-bg9.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/r1.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\r1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/r2.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\r2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/r3.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\r3.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/r4.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\r4.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/r5.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\r5.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/r6.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\r6.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/r7.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\r7.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/r8.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\r8.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/s1.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\s1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/s2.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\s2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/s3.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\s3.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/s4.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\s4.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/page-img/s5.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\page-img\s5.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/small/07.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\small\07.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/small/08.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\small\08.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/small/09.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\small\09.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/small/10.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\small\10.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/small/11.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\small\11.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/small/12.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\small\12.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/small/13.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\small\13.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/small/14.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\small\14.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/small/img-1.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\small\img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/small/img-2.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\small\img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/store/01.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\store\01.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/store/02.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\store\02.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/store/03.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\store\03.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/store/04.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\store\04.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/store/05.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\store\05.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/store/06.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\store\06.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/store/07.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\store\07.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/store/08.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\store\08.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/store/09.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\store\09.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/store/c1.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\store\c1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/store/c2.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\store\c2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/store/c3.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\store\c3.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/store/c4.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\store\c4.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/user/01.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\user\01.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/user/02.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\user\02.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/user/03.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\user\03.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/user/04.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\user\04.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/user/05.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\user\05.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/user/06.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\user\06.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/user/07.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\user\07.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/user/08.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\user\08.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/user/09.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\user\09.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/user/1.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\user\1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/user/10.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\user\10.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/user/11.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\user\11.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/user/11.png
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\user\11.png
+Content Type: image/png
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/user/12.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\user\12.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/user/13.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\user\13.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/user/14.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\user\14.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/user/15.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\user\15.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/user/16.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\user\16.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/user/17.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\user\17.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/user/18.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\user\18.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/user/19.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\user\19.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/images/user/4.jpg
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\images\user\4.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/js/app.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\js\app.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/js/charts/admin.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\js\charts\admin.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/js/charts/weather-chart.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\js\charts\weather-chart.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/js/countdown.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\js\countdown.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/js/customizer.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\js\customizer.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/js/enchanter.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\js\enchanter.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/js/fslightbox.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\js\fslightbox.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/js/libs.min.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\js\libs.min.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/js/lottie.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\js\lottie.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/js/masonry.pkgd.min.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\js\masonry.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/js/select2.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\js\select2.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/js/setting/setting-init.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\js\setting\setting-init.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/js/setting/setting.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\js\setting\setting.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/js/setting/utility.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\js\setting\utility.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/js/slider.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\js\slider.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/js/sweet-alert.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\js\sweet-alert.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/vendor/@fortawesome/fontawesome-free/css/all.min.css
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\vendor\@fortawesome\fontawesome-free\css\all.min.css
+Content Type: text/css
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/vendor/flatpickr/dist/flatpickr.min.css
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\vendor\flatpickr\dist\flatpickr.min.css
+Content Type: text/css
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/vendor/flatpickr/dist/flatpickr.min.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\vendor\flatpickr\dist\flatpickr.min.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/vendor/fullcalendar/core/main.css
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\vendor\fullcalendar\core\main.css
+Content Type: text/css
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/vendor/fullcalendar/core/main.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\vendor\fullcalendar\core\main.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/vendor/fullcalendar/daygrid/main.css
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\vendor\fullcalendar\daygrid\main.css
+Content Type: text/css
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/vendor/fullcalendar/daygrid/main.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\vendor\fullcalendar\daygrid\main.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/vendor/fullcalendar/interaction/main.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\vendor\fullcalendar\interaction\main.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/vendor/fullcalendar/list/main.css
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\vendor\fullcalendar\list\main.css
+Content Type: text/css
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/vendor/fullcalendar/list/main.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\vendor\fullcalendar\list\main.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/vendor/fullcalendar/timegrid/main.css
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\vendor\fullcalendar\timegrid\main.css
+Content Type: text/css
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/vendor/fullcalendar/timegrid/main.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\vendor\fullcalendar\timegrid\main.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/vendor/line-awesome/dist/line-awesome/css/line-awesome.min.css
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\vendor\line-awesome\dist\line-awesome\css\line-awesome.min.css
+Content Type: text/css
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/vendor/lodash/lodash.min.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\vendor\lodash\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/vendor/moment.min.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\vendor\moment.min.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/vendor/remixicon/fonts/remixicon.css
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\vendor\remixicon\fonts\remixicon.css
+Content Type: text/css
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/vendor/sweetalert2/dist/sweetalert2.min.css
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\vendor\sweetalert2\dist\sweetalert2.min.css
+Content Type: text/css
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/vendor/sweetalert2/dist/sweetalert2.min.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\vendor\sweetalert2\dist\sweetalert2.min.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/vendor/vanillajs-datepicker/dist/css/datepicker.min.css
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\vendor\vanillajs-datepicker\dist\css\datepicker.min.css
+Content Type: text/css
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/assets/vendor/vanillajs-datepicker/dist/js/datepicker.min.js
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\assets\vendor\vanillajs-datepicker\dist\js\datepicker.min.js
+Content Type: application/javascript
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\index.htm
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/admin.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\admin.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/birthday.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\birthday.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/blank-page.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\blank-page.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/blog-detail.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\blog-detail.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/blog-grid.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\blog-grid.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/blog-list.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\blog-list.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/calendar.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\calendar.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/data-table.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\data-table.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/file.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\file.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/form-chechbox.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\form-chechbox.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/form-layout.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\form-layout.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/form-radio.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\form-radio.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/form-switch.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\form-switch.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/form-validation.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\form-validation.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/form-wizard-validate.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\form-wizard-validate.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/form-wizard-vertical.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\form-wizard-vertical.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/form-wizard.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\form-wizard.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/friend-list.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\friend-list.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/friend-profile.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\friend-profile.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/friend-request.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\friend-request.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/icon-fontawesome-5.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\icon-fontawesome-5.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/icon-lineawesome.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\icon-lineawesome.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/icon-material.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\icon-material.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/icon-remixicon.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\icon-remixicon.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/index.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\index.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/market1.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\market1.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/market2.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\market2.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/music.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\music.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/notification.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\notification.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/pages-comingsoon.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\pages-comingsoon.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/pages-confirm-mail.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\pages-confirm-mail.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/pages-error-500.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\pages-error-500.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/pages-error.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\pages-error.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/pages-faq.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\pages-faq.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/pages-invoice.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\pages-invoice.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/pages-lock-screen.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\pages-lock-screen.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/pages-maintenance.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\pages-maintenance.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/pages-pricing-one.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\pages-pricing-one.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/pages-pricing.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\pages-pricing.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/pages-recoverpw.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\pages-recoverpw.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/pages-timeline.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\pages-timeline.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/privacy-policy.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\privacy-policy.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/profile1.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\profile1.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/profile2.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\profile2.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/profile3.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\profile3.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/sign-in.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\sign-in.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/sign-up.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\sign-up.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/store-category-grid.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\store-category-grid.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/store-category-list.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\store-category-list.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/store-checkout.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\store-checkout.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/store-detail.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\store-detail.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/table-editable.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\table-editable.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/tables-basic.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\tables-basic.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/terms-of-service.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\terms-of-service.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/ui-alerts.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\ui-alerts.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/ui-badges.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\ui-badges.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/ui-breadcrumb.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\ui-breadcrumb.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/ui-buttons.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\ui-buttons.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/ui-cards.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\ui-cards.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/ui-carousel.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\ui-carousel.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/ui-color.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\ui-color.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/ui-embed-video.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\ui-embed-video.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/ui-grid.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\ui-grid.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/ui-images.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\ui-images.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/ui-list-group.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\ui-list-group.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/ui-modal.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\ui-modal.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/ui-notifications.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\ui-notifications.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/ui-offcanvas.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\ui-offcanvas.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/ui-pagination.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\ui-pagination.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/ui-popovers.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\ui-popovers.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/ui-progressbars.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\ui-progressbars.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/ui-tabs.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\ui-tabs.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/ui-tooltips.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\ui-tooltips.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/ui-typography.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\ui-typography.html
+Content Type: text/html
+
+Uri: https://templates.iqonic.design/socialv/bs5/html/dist/dashboard/weather.html
+File Name: D:\O2\templates.iqonic.design\socialv\bs5\html\dist\dashboard\weather.html
+Content Type: text/html
+
